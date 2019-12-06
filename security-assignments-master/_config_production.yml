@@ -8,4 +8,4 @@ plugins:
   - jekyll-github-metadata
 github:
     pages_env: production
-    pages_hostname: daveeargle.com
+    pages_hostname: jdarcymisy.com
