@@ -4,7 +4,6 @@ title: Information Security Management | Assignments
 
 # {{ page.title }}
 
-{% include attribution.html %}
 
 ## [Labs]( {{ '/labs/' | relative_url }} )
 
@@ -13,6 +12,3 @@ title: Information Security Management | Assignments
 ## [Reading Topics]( {{ '/readings/' | relative_url }})
 
 ## [In-class Activities]({{ '/activities/' | relative_url }})
-
-
-
