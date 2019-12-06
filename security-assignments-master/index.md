@@ -4,7 +4,7 @@ title: Information Security Management | Assignments
 
 # {{ page.title }}
 
-{% include attribution.html %}
+<!-- {% include attribution.html %} -->
 
 ## [Labs]( {{ '/labs/' | relative_url }} )
 
