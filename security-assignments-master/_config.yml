@@ -22,7 +22,7 @@ baseurl: "/security-assignments" # the subpath of your site, e.g. /blog
 url: "https://jdarcymisy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deargle
 github_username:  deargle
-repository: 'misysecurityassignments/security-assignments-master'
+repository: 'misysecurity/misysecurityassignments'
 
 instructorcollab_username: jdarcy
 instructorcollab_domain: udel.edu
